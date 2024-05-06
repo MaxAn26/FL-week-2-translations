@@ -380,9 +380,9 @@ translate russian strings:
 
     # game/code/screens/screens.rpy:653
     old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
+    new "Добавить Taboo University в список желаемого в Steam"
 
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
+    new "Попробуйте нашу новую игру: Taboo University"
 
