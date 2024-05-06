@@ -376,7 +376,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "You won't use the safe word, the scene will continue."
-    new "Ты не будешь использовать стоп-слово, сцена продолжиться"
+    new "Ты не будешь использовать стоп-слово, сцена продолжится"
 
     # game/code/hints.rpy:5
     old "You will cum and Dahlia will be disappointed in you."
